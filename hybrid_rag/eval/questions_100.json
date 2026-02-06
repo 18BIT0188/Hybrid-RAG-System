@@ -1,0 +1,1272 @@
+[
+  {
+    "id": "q001",
+    "question": "What is Bantu languages?",
+    "ground_truth": "the total number of bantu languages is estimated at between 440 and 680 distinct languages, depending on the definition of \" language \" versus \" dialect \".",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bantu_languages"
+    ],
+    "source_titles": [
+      "Bantu languages"
+    ],
+    "category": "factual"
+  },
+  {
+    "id": "q002",
+    "question": "What is Computer architecture?",
+    "ground_truth": "it can sometimes be a high - level description that ignores details of the implementation.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Computer_architecture"
+    ],
+    "source_titles": [
+      "Computer architecture"
+    ],
+    "category": "factual"
+  },
+  {
+    "id": "q003",
+    "question": "What is Bryant Wright?",
+    "ground_truth": "he earned a bachelor of arts in english from the university of south carolina in 1974 and a master of divinity from the southern baptist theological seminary in 1979.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bryant_Wright"
+    ],
+    "source_titles": [
+      "Bryant Wright"
+    ],
+    "category": "factual"
+  },
+  {
+    "id": "q004",
+    "question": "What is Ion Caraion?",
+    "ground_truth": "i - iii, 1974 - 1976 ), canadian ( 1978 ) and american ( 1979 ).",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ion_Caraion"
+    ],
+    "source_titles": [
+      "Ion Caraion"
+    ],
+    "category": "factual"
+  },
+  {
+    "id": "q005",
+    "question": "What is David Hajjar?",
+    "ground_truth": "from 1978 to 1980, he completed postdoctoral training in pathology at weill cornell medicine / cornell university in new york city, and from 1980 to 1981, he completed postdoctoral training in biochemistry at rockefeller university.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/David_Hajjar"
+    ],
+    "source_titles": [
+      "David Hajjar"
+    ],
+    "category": "factual"
+  },
+  {
+    "id": "q006",
+    "question": "What is Ariel (moon)?",
+    "ground_truth": "= = orbit = = among uranus's five major moons, ariel is the second closest to the planet, orbiting at the distance of about 190, 000 km.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ariel_(moon)"
+    ],
+    "source_titles": [
+      "Ariel (moon)"
+    ],
+    "category": "factual"
+  },
+  {
+    "id": "q007",
+    "question": "What is River?",
+    "ground_truth": "these streams may be small and flow rapidly down the sides of mountains.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/River"
+    ],
+    "source_titles": [
+      "River"
+    ],
+    "category": "factual"
+  },
+  {
+    "id": "q008",
+    "question": "What is Mary Aquinas Monaghan?",
+    "ground_truth": "monaghan studied science for one year at university college galway, later attending university college dublin from 1941 to 1947.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mary_Aquinas_Monaghan"
+    ],
+    "source_titles": [
+      "Mary Aquinas Monaghan"
+    ],
+    "category": "factual"
+  },
+  {
+    "id": "q009",
+    "question": "What is Marla Brown?",
+    "ground_truth": "= = = minimum wage = = = brown voted against a bill to incrementally raise pennsylvania's minimum to fifteen dollars an hour by 2026.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Marla_Brown"
+    ],
+    "source_titles": [
+      "Marla Brown"
+    ],
+    "category": "factual"
+  },
+  {
+    "id": "q010",
+    "question": "What is List of acts of the Parliament of Ireland, 1721–1730?",
+    "ground_truth": "a number of acts passed by the parliament of england or the parliament of great britain also extended to ireland during this period.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/List_of_acts_of_the_Parliament_of_Ireland,_1721%E2%80%931730"
+    ],
+    "source_titles": [
+      "List of acts of the Parliament of Ireland, 1721–1730"
+    ],
+    "category": "factual"
+  },
+  {
+    "id": "q011",
+    "question": "What is Public Order Ordinance?",
+    "ground_truth": "the preliminary working committee for the hksar, an organ oversaw the preparatory works for the transfer of the sovereignty consisting members who were appointed by the prc government, proposed to reinstate the poo.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Public_Order_Ordinance"
+    ],
+    "source_titles": [
+      "Public Order Ordinance"
+    ],
+    "category": "factual"
+  },
+  {
+    "id": "q012",
+    "question": "What is Metrorower?",
+    "ground_truth": "= = system = = it is a year - round 4th generation system that does not require the existence of base stations, but in this implementation it has stations just like 3rd generation systems.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Metrorower"
+    ],
+    "source_titles": [
+      "Metrorower"
+    ],
+    "category": "factual"
+  },
+  {
+    "id": "q013",
+    "question": "What is Death of Alexander the Great?",
+    "ground_truth": "the place where this incident took place was susa in 323 bc.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Death_of_Alexander_the_Great"
+    ],
+    "source_titles": [
+      "Death of Alexander the Great"
+    ],
+    "category": "factual"
+  },
+  {
+    "id": "q014",
+    "question": "What is Crawling peg?",
+    "ground_truth": "also, a floating band model, which is essentially a delayed peg, was adopted between 2018 and 2019.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Crawling_peg"
+    ],
+    "source_titles": [
+      "Crawling peg"
+    ],
+    "category": "factual"
+  },
+  {
+    "id": "q015",
+    "question": "What is Algernon Sidney?",
+    "ground_truth": "in 1648 he opposed the purge of moderates who had formed the rump parliament.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Algernon_Sidney"
+    ],
+    "source_titles": [
+      "Algernon Sidney"
+    ],
+    "category": "factual"
+  },
+  {
+    "id": "q016",
+    "question": "What is Internet in Ethiopia?",
+    "ground_truth": "= = regulation and isps = = ethio telecom and the ethiopian telecommunication agency ( eta ) have exclusive control of internet access throughout the country.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Internet_in_Ethiopia"
+    ],
+    "source_titles": [
+      "Internet in Ethiopia"
+    ],
+    "category": "factual"
+  },
+  {
+    "id": "q017",
+    "question": "What is Unused New York City Subway service labels?",
+    "ground_truth": "t is the planned label for the full - length second avenue subway service.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Unused_New_York_City_Subway_service_labels"
+    ],
+    "source_titles": [
+      "Unused New York City Subway service labels"
+    ],
+    "category": "factual"
+  },
+  {
+    "id": "q018",
+    "question": "What is Petit appartement de la reine?",
+    "ground_truth": "very little information survived about the decor or the arrangement of these rooms, owing largely to her early death in 1683 ( verlet 1985, p.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Petit_appartement_de_la_reine"
+    ],
+    "source_titles": [
+      "Petit appartement de la reine"
+    ],
+    "category": "factual"
+  },
+  {
+    "id": "q019",
+    "question": "What is Model audit?",
+    "ground_truth": "this requires bidders to commit earlier in the model auditor may emphasize one or the other or use a combination of both approaches.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Model_audit"
+    ],
+    "source_titles": [
+      "Model audit"
+    ],
+    "category": "factual"
+  },
+  {
+    "id": "q020",
+    "question": "What is The Ark Work?",
+    "ground_truth": "it was released on march 24, 2015 through thrill jockey record label.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/The_Ark_Work"
+    ],
+    "source_titles": [
+      "The Ark Work"
+    ],
+    "category": "factual"
+  },
+  {
+    "id": "q021",
+    "question": "What is 2013 Kentucky Wildcats football team?",
+    "ground_truth": "the wildcats'defense closed running lanes for michael dyer and other cardinals backs and even sacking bridgewater for just the second time this season.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/2013_Kentucky_Wildcats_football_team"
+    ],
+    "source_titles": [
+      "2013 Kentucky Wildcats football team"
+    ],
+    "category": "factual"
+  },
+  {
+    "id": "q022",
+    "question": "What is Chuck McCoy?",
+    "ground_truth": "he established aggressive marketing techniques including television ads, and frequent giveaways to increase the profile of the station.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chuck_McCoy"
+    ],
+    "source_titles": [
+      "Chuck McCoy"
+    ],
+    "category": "factual"
+  },
+  {
+    "id": "q023",
+    "question": "What is Quercus ilex?",
+    "ground_truth": "the largest population of holm oak in northern europe is present on and around st.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Quercus_ilex"
+    ],
+    "source_titles": [
+      "Quercus ilex"
+    ],
+    "category": "factual"
+  },
+  {
+    "id": "q024",
+    "question": "What is City Loop (film)?",
+    "ground_truth": "the film was shot on super 16mm, and then blown up to 35mm, although it was never theatrically released.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/City_Loop_(film)"
+    ],
+    "source_titles": [
+      "City Loop (film)"
+    ],
+    "category": "factual"
+  },
+  {
+    "id": "q025",
+    "question": "What is Wikipedia:Hatnote?",
+    "ground_truth": "if a disambiguation page exists for a given term, then linking to it should be enough.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Wikipedia:Hatnote"
+    ],
+    "source_titles": [
+      "Wikipedia:Hatnote"
+    ],
+    "category": "factual"
+  },
+  {
+    "id": "q026",
+    "question": "What is BBC News?",
+    "ground_truth": "however, it could not broadcast news broadcasting news before 7 pm, and to force it to use wire service copy instead of reporting on its own.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/BBC_News"
+    ],
+    "source_titles": [
+      "BBC News"
+    ],
+    "category": "factual"
+  },
+  {
+    "id": "q027",
+    "question": "What is Skouras Pictures?",
+    "ground_truth": "skouras pictures was an american independent movie distribution company that was founded by tom skouras in 1983.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Skouras_Pictures"
+    ],
+    "source_titles": [
+      "Skouras Pictures"
+    ],
+    "category": "factual"
+  },
+  {
+    "id": "q028",
+    "question": "What is BeIN Sports (Middle East TV channel)?",
+    "ground_truth": "it is based in doha, qatar, serving the middle east and north africa ( mena ) region.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/BeIN_Sports_(Middle_East_TV_channel)"
+    ],
+    "source_titles": [
+      "BeIN Sports (Middle East TV channel)"
+    ],
+    "category": "factual"
+  },
+  {
+    "id": "q029",
+    "question": "What is Ahimsa?",
+    "ground_truth": "about the 5th century ce, valluvar emphasized ahimsa and moral vegetarianism as virtues for an individual, which formed the core of his teachings in the kural.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ahimsa"
+    ],
+    "source_titles": [
+      "Ahimsa"
+    ],
+    "category": "factual"
+  },
+  {
+    "id": "q030",
+    "question": "What is Freuchie?",
+    "ground_truth": "= = references = = = = external links = = fife community website freuchie cricket club freuchie flood action group",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Freuchie"
+    ],
+    "source_titles": [
+      "Freuchie"
+    ],
+    "category": "factual"
+  },
+  {
+    "id": "q031",
+    "question": "What is List of MeSH codes?",
+    "ground_truth": "the following is a list of the codes for mesh ( medical subject headings ), a comprehensive controlled vocabulary for the purpose of indexing journal articles and books in the life sciences.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/List_of_MeSH_codes"
+    ],
+    "source_titles": [
+      "List of MeSH codes"
+    ],
+    "category": "factual"
+  },
+  {
+    "id": "q032",
+    "question": "What is Free silver?",
+    "ground_truth": "teller of colorado led many western republicans to bolt and form a third party that supported democratic presidential nominee william jennings bryan, the short - lived silver republican party.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Free_silver"
+    ],
+    "source_titles": [
+      "Free silver"
+    ],
+    "category": "factual"
+  },
+  {
+    "id": "q033",
+    "question": "What is Chetanya Kasyap?",
+    "ground_truth": "he retained it in the 2018 assembly election for bjp polling 91, 986 votes.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chetanya_Kasyap"
+    ],
+    "source_titles": [
+      "Chetanya Kasyap"
+    ],
+    "category": "factual"
+  },
+  {
+    "id": "q034",
+    "question": "What is Country?",
+    "ground_truth": "melissa lucashenko, an aboriginal australian writer, expressed the difficulty of defining \" country \" in a 2005 essay, \" unsettlement \" :...",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Country"
+    ],
+    "source_titles": [
+      "Country"
+    ],
+    "category": "factual"
+  },
+  {
+    "id": "q035",
+    "question": "What is Jungle Jive?",
+    "ground_truth": "the spanish - themed song \" hasta manana \" ( 1990 ) was the first single of the new luv's formation to be released by rca but failed to break into the hit lists.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Jungle_Jive"
+    ],
+    "source_titles": [
+      "Jungle Jive"
+    ],
+    "category": "factual"
+  },
+  {
+    "id": "q036",
+    "question": "What is Desert?",
+    "ground_truth": "in english before the 20th century, desert was often used in the sense of \" unpopulated area \", without specific reference to aridity ; but today the word is most often used in its climate - science sense ( an area of low precipitation ).",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Desert"
+    ],
+    "source_titles": [
+      "Desert"
+    ],
+    "category": "factual"
+  },
+  {
+    "id": "q037",
+    "question": "What is Evidence-based policy?",
+    "ground_truth": "good data, analytical skills, and political support to the use of scientific information are typically seen as the crucial elements of an evidence - based approach.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Evidence-based_policy"
+    ],
+    "source_titles": [
+      "Evidence-based policy"
+    ],
+    "category": "factual"
+  },
+  {
+    "id": "q038",
+    "question": "What is Hartmut Welker?",
+    "ground_truth": "at the age of 28, he began studying singing at the hochschule fur musik und tanz koln with else bischof.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Hartmut_Welker"
+    ],
+    "source_titles": [
+      "Hartmut Welker"
+    ],
+    "category": "factual"
+  },
+  {
+    "id": "q039",
+    "question": "What is Ulmus parvifolia 'Frosty'?",
+    "ground_truth": "0008 = = = australia = = = glenormiston college, glenormiston road, glenormiston south, victoria 3265 ; 2 trees, 4 m in height ( 2008 ) = = nurseries = = = = = north america = = = widely available.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ulmus_parvifolia_%27Frosty%27"
+    ],
+    "source_titles": [
+      "Ulmus parvifolia 'Frosty'"
+    ],
+    "category": "factual"
+  },
+  {
+    "id": "q040",
+    "question": "What is State League South Australia?",
+    "ground_truth": "state league 2 was split into north and south conferences for the 2025 season.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/State_League_South_Australia"
+    ],
+    "source_titles": [
+      "State League South Australia"
+    ],
+    "category": "factual"
+  },
+  {
+    "id": "q041",
+    "question": "What is Egalitarianism?",
+    "ground_truth": "many state constitutions in the united states also use the rights of man language rather than rights of person since the noun man has always been a reference to and an inclusion of both men and women.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Egalitarianism"
+    ],
+    "source_titles": [
+      "Egalitarianism"
+    ],
+    "category": "factual"
+  },
+  {
+    "id": "q042",
+    "question": "What is July–August 2022 United States floods?",
+    "ground_truth": "more flooding continued from july 30 to august 1 in arizona, including phoenix and flagstaff, california, including death valley national park, and again in the same areas of eastern kentucky.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/July%E2%80%93August_2022_United_States_floods"
+    ],
+    "source_titles": [
+      "July–August 2022 United States floods"
+    ],
+    "category": "factual"
+  },
+  {
+    "id": "q043",
+    "question": "What is Baroque?",
+    "ground_truth": "in an anonymous satirical review of the premiere of jean - philippe rameau's hippolyte et aricie in october 1733, which was printed in the mercure de france in may 1734, the critic wrote that the novelty in this ##tering way.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Baroque"
+    ],
+    "source_titles": [
+      "Baroque"
+    ],
+    "category": "factual"
+  },
+  {
+    "id": "q044",
+    "question": "What is I Got Shit on My Mind?",
+    "ground_truth": "angee griffin and h - town \" one black and a bunch of dirty white boys \" - 4 : 20 \" news cast \" - 2 : 54 \" ain't that a bitch, pt.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/I_Got_Shit_on_My_Mind"
+    ],
+    "source_titles": [
+      "I Got Shit on My Mind"
+    ],
+    "category": "factual"
+  },
+  {
+    "id": "q045",
+    "question": "What is Matthew Perry?",
+    "ground_truth": "perry later attributed his behavior to his feeling like a family outsider who no longer belonged once his mother began having children with morrison.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Matthew_Perry"
+    ],
+    "source_titles": [
+      "Matthew Perry"
+    ],
+    "category": "factual"
+  },
+  {
+    "id": "q046",
+    "question": "How does Coastal engineering differ from Godwin Maduka?",
+    "ground_truth": "Coastal engineering: this essentially uses nearshore sediment sources and knowledge of coastal morphology to identify which accretional features can be harvested to bolster erosional areas, understanding the harvested material will continue to accumulate. || Godwin Maduka: he later got monetary support from his younger brother and uncle and moved to the united states in 1982.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Coastal_engineering",
+      "https://en.wikipedia.org/wiki/Godwin_Maduka"
+    ],
+    "source_titles": [
+      "Coastal engineering",
+      "Godwin Maduka"
+    ],
+    "category": "comparative"
+  },
+  {
+    "id": "q047",
+    "question": "How does A Monetary History of the United States differ from UEFA Men's Player of the Year Award?",
+    "ground_truth": "A Monetary History of the United States: china and mexico used it for their currency and the united states used it for smaller coins. || UEFA Men's Player of the Year Award: = = criteria = = according to uefa, the award \" recognise [ s ] the best player playing for a football club within the territory of a uefa member association during the previous season.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/A_Monetary_History_of_the_United_States",
+      "https://en.wikipedia.org/wiki/UEFA_Men%27s_Player_of_the_Year_Award"
+    ],
+    "source_titles": [
+      "A Monetary History of the United States",
+      "UEFA Men's Player of the Year Award"
+    ],
+    "category": "comparative"
+  },
+  {
+    "id": "q048",
+    "question": "How does Demographic economics differ from Evidence-based policy?",
+    "ground_truth": "Demographic economics: \" demography, \" the new palgrave : a dictionary of economics, v. || Evidence-based policy: although elements of an evidence - based approach can be traced back as far as the fourteenth century, it was popularized more recently during the tenure of the blair government in the united kingdom.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Demographic_economics",
+      "https://en.wikipedia.org/wiki/Evidence-based_policy"
+    ],
+    "source_titles": [
+      "Demographic economics",
+      "Evidence-based policy"
+    ],
+    "category": "comparative"
+  },
+  {
+    "id": "q049",
+    "question": "How does Amaré Barno differ from Binoculars?",
+    "ground_truth": "Amaré Barno: 5 sacks and led the atlantic coast conference with 16 tackles for loss. || Binoculars: these are typically mounted on an eyeglass frame or custom - fit onto eyeglasses.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Amar%C3%A9_Barno",
+      "https://en.wikipedia.org/wiki/Binoculars"
+    ],
+    "source_titles": [
+      "Amaré Barno",
+      "Binoculars"
+    ],
+    "category": "comparative"
+  },
+  {
+    "id": "q050",
+    "question": "How does A Monetary History of the United States differ from Platinum coins of the Russian Empire?",
+    "ground_truth": "A Monetary History of the United States: in the final chapter, they specify three occasions where the federal reserve acted strongly during relatively calm times and present these as an experiment for the reader to judge their thesis. || Platinum coins of the Russian Empire: the russian empire minted platinum coins from 1828 to 1845, with face values of 3, 6 and 12 rubles.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/A_Monetary_History_of_the_United_States",
+      "https://en.wikipedia.org/wiki/Platinum_coins_of_the_Russian_Empire"
+    ],
+    "source_titles": [
+      "A Monetary History of the United States",
+      "Platinum coins of the Russian Empire"
+    ],
+    "category": "comparative"
+  },
+  {
+    "id": "q051",
+    "question": "How does July–August 2022 United States floods differ from Japanese Aero Engine Corporation?",
+    "ground_truth": "July–August 2022 United States floods: several rounds of severe thunderstorms began in missouri on july 24, culminating during july 25 and 26, when st. || Japanese Aero Engine Corporation: around 1982, the consortium's attention was redirected towards the co - development of a more advanced engine in the 25000lbf thrust class for the 150 seater market.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/July%E2%80%93August_2022_United_States_floods",
+      "https://en.wikipedia.org/wiki/Japanese_Aero_Engine_Corporation"
+    ],
+    "source_titles": [
+      "July–August 2022 United States floods",
+      "Japanese Aero Engine Corporation"
+    ],
+    "category": "comparative"
+  },
+  {
+    "id": "q052",
+    "question": "How does Workers Party (United States) differ from July–August 2022 United States floods?",
+    "ground_truth": "Workers Party (United States): some members took staff positions in the united auto workers and / or leading positions in the sp, many of them ( including shachtman ) drifting rightward, some to the point where they supported the bay of pigs and the vietnam war. || July–August 2022 United States floods: on the morning of july 29, the wpc issued a moderate risk outlook for excessive rainfall, but shifted it into eastern kentucky and almost all of west virginia.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Workers_Party_(United_States)",
+      "https://en.wikipedia.org/wiki/July%E2%80%93August_2022_United_States_floods"
+    ],
+    "source_titles": [
+      "Workers Party (United States)",
+      "July–August 2022 United States floods"
+    ],
+    "category": "comparative"
+  },
+  {
+    "id": "q053",
+    "question": "How does Chris Whittle differ from Taxi Ballad?",
+    "ground_truth": "Chris Whittle: roughly 60 percent were expected to be day students, and the remaining 40 percent || Taxi Ballad: \" ابطال \" تاكسي البلد \" : الفيلم تجربة جديدة على السينما اللبنانية \" [ \" taxi ballad \" : the film is a new experiment on the lebanese cinema ].",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chris_Whittle",
+      "https://en.wikipedia.org/wiki/Taxi_Ballad"
+    ],
+    "source_titles": [
+      "Chris Whittle",
+      "Taxi Ballad"
+    ],
+    "category": "comparative"
+  },
+  {
+    "id": "q054",
+    "question": "How does Platinum coins of the Russian Empire differ from Backward compatibility?",
+    "ground_truth": "Platinum coins of the Russian Empire: minting began with 3 - ruble coins, 6 - ruble and 12 - ruble coins were added in 1829 and 1830, respectively. || Backward compatibility: such breaking usually incurs various types of costs, such as switching cost.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Platinum_coins_of_the_Russian_Empire",
+      "https://en.wikipedia.org/wiki/Backward_compatibility"
+    ],
+    "source_titles": [
+      "Platinum coins of the Russian Empire",
+      "Backward compatibility"
+    ],
+    "category": "comparative"
+  },
+  {
+    "id": "q055",
+    "question": "How does Japanese Aero Engine Corporation differ from Workers Party (United States)?",
+    "ground_truth": "Japanese Aero Engine Corporation: although two prototype engines were built and ground tested, the rj500 project was cancelled when american aerospace manufacturer boeing decided to reject the engine in favour of the competing cfm56 - 3 to power the 737 - 300 instead. || Workers Party (United States): at the same time the draft prevented the construction of a stable industrial base as much of the youthful membership was inducted into the armed forces.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Japanese_Aero_Engine_Corporation",
+      "https://en.wikipedia.org/wiki/Workers_Party_(United_States)"
+    ],
+    "source_titles": [
+      "Japanese Aero Engine Corporation",
+      "Workers Party (United States)"
+    ],
+    "category": "comparative"
+  },
+  {
+    "id": "q056",
+    "question": "How does Article Five of the United States Constitution differ from Workers Party (United States)?",
+    "ground_truth": "Article Five of the United States Constitution: all totaled, more than 10, 000 measures to amend the constitution have been proposed in congress. || Workers Party (United States): \" at the time of the split, almost 40 % of the membership of the swp left to form the workers party.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Article_Five_of_the_United_States_Constitution",
+      "https://en.wikipedia.org/wiki/Workers_Party_(United_States)"
+    ],
+    "source_titles": [
+      "Article Five of the United States Constitution",
+      "Workers Party (United States)"
+    ],
+    "category": "comparative"
+  },
+  {
+    "id": "q057",
+    "question": "How does Vintage Stock (retailer) differ from Mountain?",
+    "ground_truth": "Vintage Stock (retailer): retail stores operate primarily under the vintage stock name, as well as the movie trading company / movie trading co. || Mountain: the highest known mountain on any planet in the solar system is olympus mons on mars at 21, 171 m ( 69, 459 ft ).",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Vintage_Stock_(retailer)",
+      "https://en.wikipedia.org/wiki/Mountain"
+    ],
+    "source_titles": [
+      "Vintage Stock (retailer)",
+      "Mountain"
+    ],
+    "category": "comparative"
+  },
+  {
+    "id": "q058",
+    "question": "How does Evidence-based policy differ from Demographic economics?",
+    "ground_truth": "Evidence-based policy: this organization works to keep all rcts up - to - date and provides \" cochrane reviews \", which present primary research in human health and health policy. || Demographic economics: there, demographic economics is paired with labour economics as one of 19 primary classifications at jel : j.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Evidence-based_policy",
+      "https://en.wikipedia.org/wiki/Demographic_economics"
+    ],
+    "source_titles": [
+      "Evidence-based policy",
+      "Demographic economics"
+    ],
+    "category": "comparative"
+  },
+  {
+    "id": "q059",
+    "question": "How does Development economics differ from Consumption (economics)?",
+    "ground_truth": "Development economics: in france, mercantilist policy is most associated with 17th - century finance minister jean - baptiste colbert, whose policies proved influential in later american development. || Consumption (economics): this means that people sometimes respond rationally to their own cognitive limits, which aimed to minimize the sum of the costs of decision making and the costs of error.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Development_economics",
+      "https://en.wikipedia.org/wiki/Consumption_(economics)"
+    ],
+    "source_titles": [
+      "Development economics",
+      "Consumption (economics)"
+    ],
+    "category": "comparative"
+  },
+  {
+    "id": "q060",
+    "question": "How does Wikipedia:Protection policy differ from Cultural economics?",
+    "ground_truth": "Wikipedia:Protection policy: applying page protection solely as a preemptive measure is contrary to the open nature of wikipedia and is generally not allowed. || Cultural economics: dawlabani added the value systems approach to the cultural emergence aspect of macroeconomics.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Wikipedia:Protection_policy",
+      "https://en.wikipedia.org/wiki/Cultural_economics"
+    ],
+    "source_titles": [
+      "Wikipedia:Protection policy",
+      "Cultural economics"
+    ],
+    "category": "comparative"
+  },
+  {
+    "id": "q061",
+    "question": "How does Japanese Aero Engine Corporation differ from Article Five of the United States Constitution?",
+    "ground_truth": "Japanese Aero Engine Corporation: pratt & whitney, mtu and fiatavio joined the consortium, by then named international aero engines, shortly afterwards. || Article Five of the United States Constitution: the second method, the convention option, a political tool that alexander hamilton ( writing in the federalist no.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Japanese_Aero_Engine_Corporation",
+      "https://en.wikipedia.org/wiki/Article_Five_of_the_United_States_Constitution"
+    ],
+    "source_titles": [
+      "Japanese Aero Engine Corporation",
+      "Article Five of the United States Constitution"
+    ],
+    "category": "comparative"
+  },
+  {
+    "id": "q062",
+    "question": "How does Demographic economics differ from Wikipedia:Protection policy?",
+    "ground_truth": "Demographic economics: there, demographic economics is paired with labour economics as one of 19 primary classifications at jel : j. || Wikipedia:Protection policy: in some circumstances, pages may need to be protected from modification by certain groups of editors.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Demographic_economics",
+      "https://en.wikipedia.org/wiki/Wikipedia:Protection_policy"
+    ],
+    "source_titles": [
+      "Demographic economics",
+      "Wikipedia:Protection policy"
+    ],
+    "category": "comparative"
+  },
+  {
+    "id": "q063",
+    "question": "How does American Revolution differ from Platinum coins of the Russian Empire?",
+    "ground_truth": "American Revolution: the following year, the congress unanimously adopted the declaration of independence on the fourth of july. || Platinum coins of the Russian Empire: currently, the platinum coins of the russian empire are rare, especially for the period from 1839 to 1840 when only a few coins were minted.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/American_Revolution",
+      "https://en.wikipedia.org/wiki/Platinum_coins_of_the_Russian_Empire"
+    ],
+    "source_titles": [
+      "American Revolution",
+      "Platinum coins of the Russian Empire"
+    ],
+    "category": "comparative"
+  },
+  {
+    "id": "q064",
+    "question": "How does July–August 2022 United States floods differ from Japanese Aero Engine Corporation?",
+    "ground_truth": "July–August 2022 United States floods: training thunderstorms began to form over eastern kentucky during the early hours of july 27, producing heavy rainfall periodically throughout the day. || Japanese Aero Engine Corporation: rolls - royce based the high pressure compressor on a scale - up of the rc34b eight stage research unit used in the rb401 - 06 demonstrator engine, but with a zero - stage added at the front and a tenth stage added to the rear.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/July%E2%80%93August_2022_United_States_floods",
+      "https://en.wikipedia.org/wiki/Japanese_Aero_Engine_Corporation"
+    ],
+    "source_titles": [
+      "July–August 2022 United States floods",
+      "Japanese Aero Engine Corporation"
+    ],
+    "category": "comparative"
+  },
+  {
+    "id": "q065",
+    "question": "How does July–August 2022 United States floods differ from Japanese Aero Engine Corporation?",
+    "ground_truth": "July–August 2022 United States floods: parts of kentucky and west virginia were affected by flooding on july 26 as well, including johnson, magoffin, and floyd counties in kentucky and mingo and mcdowell counties in west virginia. || Japanese Aero Engine Corporation: in the decades since its establishment, the consortium has been involved in the development of numerous civil aero engines via international collaborations.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/July%E2%80%93August_2022_United_States_floods",
+      "https://en.wikipedia.org/wiki/Japanese_Aero_Engine_Corporation"
+    ],
+    "source_titles": [
+      "July–August 2022 United States floods",
+      "Japanese Aero Engine Corporation"
+    ],
+    "category": "comparative"
+  },
+  {
+    "id": "q066",
+    "question": "Why is Euclidean geometry important?",
+    "ground_truth": "however, euclid's reasoning from assumptions to conclusions remains valid independently from the physical reality.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Euclidean_geometry"
+    ],
+    "source_titles": [
+      "Euclidean geometry"
+    ],
+    "category": "inferential"
+  },
+  {
+    "id": "q067",
+    "question": "Why is Caveman Ughlympics important?",
+    "ground_truth": "it was developed for the commodore 64 and ms - dos by dynamix and published by electronic arts.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Caveman_Ughlympics"
+    ],
+    "source_titles": [
+      "Caveman Ughlympics"
+    ],
+    "category": "inferential"
+  },
+  {
+    "id": "q068",
+    "question": "Why is Chetanya Kasyap important?",
+    "ground_truth": "chetanya kasyap ( born 1959 ) is an indian politician from madhya pradesh.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chetanya_Kasyap"
+    ],
+    "source_titles": [
+      "Chetanya Kasyap"
+    ],
+    "category": "inferential"
+  },
+  {
+    "id": "q069",
+    "question": "Why is Agent-based model in biology important?",
+    "ground_truth": "the study considered a forested area in the north - central interior of british columbia of approximately 560 hectare.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Agent-based_model_in_biology"
+    ],
+    "source_titles": [
+      "Agent-based model in biology"
+    ],
+    "category": "inferential"
+  },
+  {
+    "id": "q070",
+    "question": "Why is Pershing missile launches important?",
+    "ground_truth": "most covers were created using a rubber stamp with the image of pershing ii this was installed on the erector launcher.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pershing_missile_launches"
+    ],
+    "source_titles": [
+      "Pershing missile launches"
+    ],
+    "category": "inferential"
+  },
+  {
+    "id": "q071",
+    "question": "Why is Binoculars important?",
+    "ground_truth": "this type of construction is still used in very cheap models and in opera glasses or theater glasses.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Binoculars"
+    ],
+    "source_titles": [
+      "Binoculars"
+    ],
+    "category": "inferential"
+  },
+  {
+    "id": "q072",
+    "question": "Why is List of Carnegie libraries in Alabama important?",
+    "ground_truth": "carnegie libraries : their history and impact on american public library development.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/List_of_Carnegie_libraries_in_Alabama"
+    ],
+    "source_titles": [
+      "List of Carnegie libraries in Alabama"
+    ],
+    "category": "inferential"
+  },
+  {
+    "id": "q073",
+    "question": "Why is Bury the Dead important?",
+    "ground_truth": "first the captain and the generals tell them it is their duty to be buried, but they refuse.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Bury_the_Dead"
+    ],
+    "source_titles": [
+      "Bury the Dead"
+    ],
+    "category": "inferential"
+  },
+  {
+    "id": "q074",
+    "question": "Why is Demographic economics important?",
+    "ground_truth": "[ untitled review of simon, 1977 & 1981 ], population studies, 36 ( 3 ), pp.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Demographic_economics"
+    ],
+    "source_titles": [
+      "Demographic economics"
+    ],
+    "category": "inferential"
+  },
+  {
+    "id": "q075",
+    "question": "Why is Loyal Edwin Knappen important?",
+    "ground_truth": "= = federal judicial service = = knappen was nominated by president theodore roosevelt on december 3, 1906, to a seat on the united states district court for the western district of michigan vacated by the death of judge george p.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Loyal_Edwin_Knappen"
+    ],
+    "source_titles": [
+      "Loyal Edwin Knappen"
+    ],
+    "category": "inferential"
+  },
+  {
+    "id": "q076",
+    "question": "Why is Pečenice important?",
+    "ground_truth": "= = population = = it has a population of 127 people ( 31 december 2024 ).",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pe%C4%8Denice"
+    ],
+    "source_titles": [
+      "Pečenice"
+    ],
+    "category": "inferential"
+  },
+  {
+    "id": "q077",
+    "question": "Why is George Curzon-Howe, 2nd Earl Howe important?",
+    "ground_truth": "he was the first president of the birmingham dog show society, serving from 1860 to 1863 and again in 1870, 1872, 1874 and 1875.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/George_Curzon-Howe,_2nd_Earl_Howe"
+    ],
+    "source_titles": [
+      "George Curzon-Howe, 2nd Earl Howe"
+    ],
+    "category": "inferential"
+  },
+  {
+    "id": "q078",
+    "question": "Why is Ion Caraion important?",
+    "ground_truth": "he prefaced books by georg scherg, mihail crama, and tudor arghezi.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ion_Caraion"
+    ],
+    "source_titles": [
+      "Ion Caraion"
+    ],
+    "category": "inferential"
+  },
+  {
+    "id": "q079",
+    "question": "Why is Article Five of the United States Constitution important?",
+    "ground_truth": "it moreover equally enables the general and the state governments to originate the amendment of errors, as they may be pointed out by the experience on one side, or on the other.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Article_Five_of_the_United_States_Constitution"
+    ],
+    "source_titles": [
+      "Article Five of the United States Constitution"
+    ],
+    "category": "inferential"
+  },
+  {
+    "id": "q080",
+    "question": "Why is London Penny Post important?",
+    "ground_truth": "to announce the new penny post, public notices were published in several local newspapers ( figure 1 ) and notices and posters were also printed and circulated.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/London_Penny_Post"
+    ],
+    "source_titles": [
+      "London Penny Post"
+    ],
+    "category": "inferential"
+  },
+  {
+    "id": "q081",
+    "question": "Why is John Sharpstein important?",
+    "ground_truth": "= = biography = = sharpstein was born on may 3 or may 23, 1823 in richmond, new york.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/John_Sharpstein"
+    ],
+    "source_titles": [
+      "John Sharpstein"
+    ],
+    "category": "inferential"
+  },
+  {
+    "id": "q082",
+    "question": "Why is Atqasuk, Alaska important?",
+    "ground_truth": "census as \" atkasook \", and was made a census designated place ( cdp ).",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Atqasuk,_Alaska"
+    ],
+    "source_titles": [
+      "Atqasuk, Alaska"
+    ],
+    "category": "inferential"
+  },
+  {
+    "id": "q083",
+    "question": "Why is Central bank important?",
+    "ground_truth": "\" people's bank \", also associated with communism, is used by the people's bank of china.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Central_bank"
+    ],
+    "source_titles": [
+      "Central bank"
+    ],
+    "category": "inferential"
+  },
+  {
+    "id": "q084",
+    "question": "Why is List of parks in San Diego important?",
+    "ground_truth": "this is a list of parks in the city of san diego, california : = = list of parks = = allied gardens community park amici park balboa park ( cultural park ) belmont park ( historic theme park ) black mountain open space park cabrillo national monument ( admission fee ) chicano park children's park chollas lake park clay park county administration center waterfront park cowles mountain cypress canyon park dog beach ( off - leash dog area in ocean beach ) dusty rhodes park ( with off - leash dog area ) famosa slough state marine conservation area ( natural wetland preserve ) jerabek park kate sessions park liberty station waterfront park los penasquitos canyon preserve marion bear park martin luther king jr.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/List_of_parks_in_San_Diego"
+    ],
+    "source_titles": [
+      "List of parks in San Diego"
+    ],
+    "category": "inferential"
+  },
+  {
+    "id": "q085",
+    "question": "Why is Mohamed Bey El Mouradi important?",
+    "ground_truth": "mohamed bey suspected his brother ali of supporting the algerians, and thus killed him and seized power for himself.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mohamed_Bey_El_Mouradi"
+    ],
+    "source_titles": [
+      "Mohamed Bey El Mouradi"
+    ],
+    "category": "inferential"
+  },
+  {
+    "id": "q086",
+    "question": "What connection can be made between Canada and USS Leland E. Thomas?",
+    "ground_truth": "Canada: canada's capital is ottawa and its three largest metropolitan areas are toronto, montreal, and vancouver. || USS Leland E. Thomas: the ship headed for borneo escorting chepachet to a fueling rendezvous with the task group which bombarded balikpapan, borneo.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Canada",
+      "https://en.wikipedia.org/wiki/USS_Leland_E._Thomas"
+    ],
+    "source_titles": [
+      "Canada",
+      "USS Leland E. Thomas"
+    ],
+    "category": "multi-hop"
+  },
+  {
+    "id": "q087",
+    "question": "What connection can be made between Enryaku-ji and 2020–21 Scottish Women's Premier League 2?",
+    "ground_truth": "Enryaku-ji: in the tenth century, succession disputes broke out between tendai monks of the line of ennin and enchin. || 2020–21 Scottish Women's Premier League 2: in order to preserve chronological progress, any postponed matches are not included in the round at which they were originally scheduled but added to the full round they were played immediately afterwards.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Enryaku-ji",
+      "https://en.wikipedia.org/wiki/2020%E2%80%9321_Scottish_Women%27s_Premier_League_2"
+    ],
+    "source_titles": [
+      "Enryaku-ji",
+      "2020–21 Scottish Women's Premier League 2"
+    ],
+    "category": "multi-hop"
+  },
+  {
+    "id": "q088",
+    "question": "What connection can be made between Saint-Cierges and Nitefreak?",
+    "ground_truth": "Saint-Cierges: the municipalities of chapelle - sur - moudon, correvon, denezy, martherenges, neyruz - sur - moudon, peyres - possens, saint - cierges, thierrens and chaneaz merged on 1 january 2013 into the new municipality of montanaire. || Nitefreak: the song was certified gold by syndicat national de l'edition phonographique ( snep ).",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Saint-Cierges",
+      "https://en.wikipedia.org/wiki/Nitefreak"
+    ],
+    "source_titles": [
+      "Saint-Cierges",
+      "Nitefreak"
+    ],
+    "category": "multi-hop"
+  },
+  {
+    "id": "q089",
+    "question": "What connection can be made between Combat (World of Darkness) and Ceramic engineering?",
+    "ground_truth": "Combat (World of Darkness): the biggest payoff is that it opens up your options, giving combat more flavour and characters more style. || Ceramic engineering: this material is used as an oxygen sensor in exhaust systems.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Combat_(World_of_Darkness)",
+      "https://en.wikipedia.org/wiki/Ceramic_engineering"
+    ],
+    "source_titles": [
+      "Combat (World of Darkness)",
+      "Ceramic engineering"
+    ],
+    "category": "multi-hop"
+  },
+  {
+    "id": "q090",
+    "question": "What connection can be made between Mohamed Bey El Mouradi and Radio Algeria?",
+    "ground_truth": "Mohamed Bey El Mouradi: his uncle, pasha mohammed al - hafsi and brother ali bin murad would attempt several times to usurp the throne. || Radio Algeria: algerian radio became a public industrial and commercial establishment ( epic ) by executive decree no.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mohamed_Bey_El_Mouradi",
+      "https://en.wikipedia.org/wiki/Radio_Algeria"
+    ],
+    "source_titles": [
+      "Mohamed Bey El Mouradi",
+      "Radio Algeria"
+    ],
+    "category": "multi-hop"
+  },
+  {
+    "id": "q091",
+    "question": "What connection can be made between Artistic gymnastics and Lindbladian?",
+    "ground_truth": "Artistic gymnastics: this, combined with changes in the code of points and evolving popular opinion in the sport, led to the return of older gymnasts. || Lindbladian: one of these the interaction with external degrees of freedom results in the dissipation of energy into its surroundings, which causes decay and randomization of phase.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Artistic_gymnastics",
+      "https://en.wikipedia.org/wiki/Lindbladian"
+    ],
+    "source_titles": [
+      "Artistic gymnastics",
+      "Lindbladian"
+    ],
+    "category": "multi-hop"
+  },
+  {
+    "id": "q092",
+    "question": "What connection can be made between Computer animation and Frederick Mosteller?",
+    "ground_truth": "Computer animation: this is because computer - generated animation allows for things like onion skinning which allows 2d animators to see the flow of their work all at once, and interpolation which allows 3d animators to automate the process of inbetweening. || Frederick Mosteller: he founded the department of statistics and served as its first chairman from 1957 to 1969, 1973, 1975 to 1977.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Computer_animation",
+      "https://en.wikipedia.org/wiki/Frederick_Mosteller"
+    ],
+    "source_titles": [
+      "Computer animation",
+      "Frederick Mosteller"
+    ],
+    "category": "multi-hop"
+  },
+  {
+    "id": "q093",
+    "question": "What connection can be made between B. Govindasamy Chettiar and Evidence-based policy?",
+    "ground_truth": "B. Govindasamy Chettiar: in july 1941, he was elected a member of the committee of the southern indian chamber of commerce in singapore. || Evidence-based policy: in response to such complex or social justice may necessitate different forms of evidence than what randomized trials provide.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/B._Govindasamy_Chettiar",
+      "https://en.wikipedia.org/wiki/Evidence-based_policy"
+    ],
+    "source_titles": [
+      "B. Govindasamy Chettiar",
+      "Evidence-based policy"
+    ],
+    "category": "multi-hop"
+  },
+  {
+    "id": "q094",
+    "question": "What connection can be made between Jim Bob Duggar and Canadian Friends of Burma?",
+    "ground_truth": "Jim Bob Duggar: = = = josh duggar molestation report = = = in 2006, jim bob duggar told the arkansas state police that his oldest son, josh, had molested five underage girls, including family members, in the early 2000s when he was 14 – 15 years old. || Canadian Friends of Burma: he disseminated information that included blanket characterizations of muslims or rohingya as jihadists ; materials",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Jim_Bob_Duggar",
+      "https://en.wikipedia.org/wiki/Canadian_Friends_of_Burma"
+    ],
+    "source_titles": [
+      "Jim Bob Duggar",
+      "Canadian Friends of Burma"
+    ],
+    "category": "multi-hop"
+  },
+  {
+    "id": "q095",
+    "question": "What connection can be made between Australia Act 1986 and Public Order Ordinance?",
+    "ground_truth": "Australia Act 1986: the statute provided ( s 4 ) that no future uk act would apply to a dominion ( of which australia was one ) as part of its law unless the act expressly declared that the dominion had requested and consented to it. || Public Order Ordinance: = = history = = = = = colonial period = = = a 1948 ordinance of the same short title was enacted in 1948 by the british colonial government.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Australia_Act_1986",
+      "https://en.wikipedia.org/wiki/Public_Order_Ordinance"
+    ],
+    "source_titles": [
+      "Australia Act 1986",
+      "Public Order Ordinance"
+    ],
+    "category": "multi-hop"
+  },
+  {
+    "id": "q096",
+    "question": "What connection can be made between Platinum coins of the Russian Empire and Dave Hilton Jr.?",
+    "ground_truth": "Platinum coins of the Russian Empire: count georg ludwig cancrin, the minister of finance in the russian cabinet, addressed a letter to humboldt on august 15, 1827. || Dave Hilton Jr.: dave hilton was again arrested on september 28, 2010, and charged with threats and assault, along with",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Platinum_coins_of_the_Russian_Empire",
+      "https://en.wikipedia.org/wiki/Dave_Hilton_Jr."
+    ],
+    "source_titles": [
+      "Platinum coins of the Russian Empire",
+      "Dave Hilton Jr."
+    ],
+    "category": "multi-hop"
+  },
+  {
+    "id": "q097",
+    "question": "What connection can be made between Columbia University Press and Monte Alén National Park?",
+    "ground_truth": "Columbia University Press: in 1933, the first four volumes of the history of the state of new york were published. || Monte Alén National Park: lake atoc ( lago atoc ) has forest cover throughout its entire catchment.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Columbia_University_Press",
+      "https://en.wikipedia.org/wiki/Monte_Al%C3%A9n_National_Park"
+    ],
+    "source_titles": [
+      "Columbia University Press",
+      "Monte Alén National Park"
+    ],
+    "category": "multi-hop"
+  },
+  {
+    "id": "q098",
+    "question": "What connection can be made between Eric Julius Biörner and Empathy?",
+    "ground_truth": "Eric Julius Biörner: he was a committed antiquarian and in his younger years toured medelpad, angermanland and halsingland to sketch and describe ancient finds and rune stones. || Empathy: there are other ( sometimes conflicting ) definitions of empathy that include but are not limited to social, cognitive, and emotional processes primarily concerned with understanding others.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Eric_Julius_Bi%C3%B6rner",
+      "https://en.wikipedia.org/wiki/Empathy"
+    ],
+    "source_titles": [
+      "Eric Julius Biörner",
+      "Empathy"
+    ],
+    "category": "multi-hop"
+  },
+  {
+    "id": "q099",
+    "question": "What connection can be made between Pečenice and Computer architecture?",
+    "ground_truth": "Pečenice: in the deep forest near the village runs a masonry wall 67 kilometres long known as the speceny val or the val obrov ( latin : fossa giganteum ). || Computer architecture: g., direct memory access ), virtualization, and multiprocessing.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pe%C4%8Denice",
+      "https://en.wikipedia.org/wiki/Computer_architecture"
+    ],
+    "source_titles": [
+      "Pečenice",
+      "Computer architecture"
+    ],
+    "category": "multi-hop"
+  },
+  {
+    "id": "q100",
+    "question": "What connection can be made between ATP Masters 1000 tournaments and 2019 Emperor's Cup final?",
+    "ground_truth": "ATP Masters 1000 tournaments: other than hamburg, the tournaments defunct between 1990 and 2009 were stockholm ( 1990 – 1994 ) and stuttgart ( 1995 – 2001 ), which were held as indoor events in the eighth slot. || 2019 Emperor's Cup final: one of their early chances came down the right, with kyogo furuhashi breaking down the right - side and providing a pull - back cross for noriaki fujimoto who blazed his shot over the bar.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/ATP_Masters_1000_tournaments",
+      "https://en.wikipedia.org/wiki/2019_Emperor%27s_Cup_final"
+    ],
+    "source_titles": [
+      "ATP Masters 1000 tournaments",
+      "2019 Emperor's Cup final"
+    ],
+    "category": "multi-hop"
+  }
+]

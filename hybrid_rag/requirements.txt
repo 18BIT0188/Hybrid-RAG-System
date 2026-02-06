@@ -1,0 +1,17 @@
+# Minimal baseline; adjust versions as needed.
+streamlit>=1.31
+numpy>=1.24
+pandas>=2.0
+scikit-learn>=1.3
+faiss-cpu>=1.7; platform_system != 'Darwin'
+# On macOS you may need a different FAISS install approach.
+rank-bm25>=0.2.2
+sentence-transformers>=2.2
+transformers>=4.36
+torch>=2.1
+pydantic>=2.0
+tqdm>=4.66
+requests>=2.31
+beautifulsoup4>=4.12
+python-dotenv>=1.0
+reportlab>=4.0

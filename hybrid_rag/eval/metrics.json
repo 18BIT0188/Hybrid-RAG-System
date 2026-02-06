@@ -1,0 +1,32 @@
+{
+  "dense": {
+    "MRR_URL": 0.945,
+    "Recall_URL@4": 0.89,
+    "Answer_F1": 0.0035860805860805857,
+    "Latency_ms_avg": 2879.024385390803,
+    "Failure_counts": {
+      "generation_exception": 100
+    },
+    "Num_questions": 100
+  },
+  "sparse": {
+    "MRR_URL": 0.7833333333333334,
+    "Recall_URL@4": 0.7,
+    "Answer_F1": 0.0035860805860805857,
+    "Latency_ms_avg": 2855.6388858205173,
+    "Failure_counts": {
+      "generation_exception": 100
+    },
+    "Num_questions": 100
+  },
+  "rrf": {
+    "MRR_URL": 0.9516666666666667,
+    "Recall_URL@4": 0.935,
+    "Answer_F1": 0.0035860805860805857,
+    "Latency_ms_avg": 2855.7442867278587,
+    "Failure_counts": {
+      "generation_exception": 100
+    },
+    "Num_questions": 100
+  }
+}

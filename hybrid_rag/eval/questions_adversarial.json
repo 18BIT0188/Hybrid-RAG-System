@@ -1,0 +1,357 @@
+[
+  {
+    "id": "adv001",
+    "question": "In what way does International Space Station differ from Impressionism?",
+    "ground_truth": "International Space Station: the international space station ( iss ) is a large space station that was assembled and is maintained in low earth orbit by a collaboration of five space agencies and their contractors : nasa ( united states ), roscosmos ( russia ), esa ( europe ), jaxa ( japan ), and csa ( canada ).  Impressionism: impressionism was a 19th - century art movement characterized by visible brush strokes, open composition, emphasis on accurate depiction of light in its changing qualities ( often accentuating the effects of the passage of time ), ordinary subject matter, unusual visual angles, and inclusion of movement as a crucial element of human perception and experience.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/International_Space_Station",
+      "https://en.wikipedia.org/wiki/Impressionism"
+    ],
+    "category": "paraphrase"
+  },
+  {
+    "id": "adv002",
+    "question": "How does International Space Station differ from Impressionism?",
+    "ground_truth": "International Space Station: the international space station ( iss ) is a large space station that was assembled and is maintained in low earth orbit by a collaboration of five space agencies and their contractors : nasa ( united states ), roscosmos ( russia ), esa ( europe ), jaxa ( japan ), and csa ( canada ).  Impressionism: impressionism was a 19th - century art movement characterized by visible brush strokes, open composition, emphasis on accurate depiction of light in its changing qualities ( often accentuating the effects of the passage of time ), ordinary subject matter, unusual visual angles, and inclusion of movement as a crucial element of human perception and experience.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/International_Space_Station",
+      "https://en.wikipedia.org/wiki/Impressionism"
+    ],
+    "category": "negation"
+  },
+  {
+    "id": "adv003",
+    "question": "What is the phone number related to How does International Space Station differ from Impressionism?",
+    "ground_truth": "",
+    "source_urls": [],
+    "category": "unanswerable"
+  },
+  {
+    "id": "adv004",
+    "question": "What connection exists between How does International Space Station differ from Impressionism and How does Plate tectonics differ from Quantum computing?",
+    "ground_truth": "International Space Station: the international space station ( iss ) is a large space station that was assembled and is maintained in low earth orbit by a collaboration of five space agencies and their contractors : nasa ( united states ), roscosmos ( russia ), esa ( europe ), jaxa ( japan ), and csa ( canada ).  Impressionism: impressionism was a 19th - century art movement characterized by visible brush strokes, open composition, emphasis on accurate depiction of light in its changing qualities ( often accentuating the effects of the passage of time ), ordinary subject matter, unusual visual angles, and inclusion of movement as a crucial element of human perception and experience.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/International_Space_Station",
+      "https://en.wikipedia.org/wiki/Impressionism"
+    ],
+    "category": "multi-hop"
+  },
+  {
+    "id": "adv005",
+    "question": "In what way does Association football differ from Photosynthesis?",
+    "ground_truth": "Association football: association football, commonly shortened as football and named soccer in some locations, is a team sport played between two teams of 11 players who almost exclusively use their feet to propel a ball around a rectangular field called a pitch.  Photosynthesis: photosynthesis ( foh - tə - sinth - ə - sis ) is a system of biological processes by which photopigment - bearing autotrophic organisms, such as most plants, algae and cyanobacteria, convert light energy — typically from sunlight — into the chemical energy necessary to fuel their metabolism.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Association_football",
+      "https://en.wikipedia.org/wiki/Photosynthesis"
+    ],
+    "category": "paraphrase"
+  },
+  {
+    "id": "adv006",
+    "question": "How does Association football differ from Photosynthesis?",
+    "ground_truth": "Association football: association football, commonly shortened as football and named soccer in some locations, is a team sport played between two teams of 11 players who almost exclusively use their feet to propel a ball around a rectangular field called a pitch.  Photosynthesis: photosynthesis ( foh - tə - sinth - ə - sis ) is a system of biological processes by which photopigment - bearing autotrophic organisms, such as most plants, algae and cyanobacteria, convert light energy — typically from sunlight — into the chemical energy necessary to fuel their metabolism.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Association_football",
+      "https://en.wikipedia.org/wiki/Photosynthesis"
+    ],
+    "category": "negation"
+  },
+  {
+    "id": "adv007",
+    "question": "What is the phone number related to How does Association football differ from Photosynthesis?",
+    "ground_truth": "",
+    "source_urls": [],
+    "category": "unanswerable"
+  },
+  {
+    "id": "adv008",
+    "question": "What connection exists between How does Association football differ from Photosynthesis and What is the phone number of Chandragupta Maurya?",
+    "ground_truth": "Association football: association football, commonly shortened as football and named soccer in some locations, is a team sport played between two teams of 11 players who almost exclusively use their feet to propel a ball around a rectangular field called a pitch.  Photosynthesis: photosynthesis ( foh - tə - sinth - ə - sis ) is a system of biological processes by which photopigment - bearing autotrophic organisms, such as most plants, algae and cyanobacteria, convert light energy — typically from sunlight — into the chemical energy necessary to fuel their metabolism.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Association_football",
+      "https://en.wikipedia.org/wiki/Photosynthesis"
+    ],
+    "category": "multi-hop"
+  },
+  {
+    "id": "adv009",
+    "question": "Explain in different words: Using both topics, explain how 'which' relates to Impressionism and Quantum computing.",
+    "ground_truth": "From Impressionism: the name of the style derives from the title of a claude monet work, impression, soleil levant ( impression, sunrise ), which provoked the critic louis leroy to coin the term in a satirical 1874 review of the first impressionist exhibition published in the parisian newspaper le charivari.  From Quantum computing: however, unlike a classical bit, which can be in one of two states ( a binary ), a qubit can exist in a linear combination of two states known as a quantum superposition.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Impressionism",
+      "https://en.wikipedia.org/wiki/Quantum_computing"
+    ],
+    "category": "paraphrase"
+  },
+  {
+    "id": "adv010",
+    "question": "Using both topics, explain how 'which' relates to Impressionism and Quantum computing.",
+    "ground_truth": "From Impressionism: the name of the style derives from the title of a claude monet work, impression, soleil levant ( impression, sunrise ), which provoked the critic louis leroy to coin the term in a satirical 1874 review of the first impressionist exhibition published in the parisian newspaper le charivari.  From Quantum computing: however, unlike a classical bit, which can be in one of two states ( a binary ), a qubit can exist in a linear combination of two states known as a quantum superposition.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Impressionism",
+      "https://en.wikipedia.org/wiki/Quantum_computing"
+    ],
+    "category": "negation"
+  },
+  {
+    "id": "adv011",
+    "question": "What is the phone number related to Using both topics, explain how 'which' relates to Impressionism and Quantum computing.?",
+    "ground_truth": "",
+    "source_urls": [],
+    "category": "unanswerable"
+  },
+  {
+    "id": "adv012",
+    "question": "What connection exists between Using both topics, explain how 'which' relates to Impressionism and Quantum computing. and Why does Association football matter or happen? Explain briefly.?",
+    "ground_truth": "From Impressionism: the name of the style derives from the title of a claude monet work, impression, soleil levant ( impression, sunrise ), which provoked the critic louis leroy to coin the term in a satirical 1874 review of the first impressionist exhibition published in the parisian newspaper le charivari.  From Quantum computing: however, unlike a classical bit, which can be in one of two states ( a binary ), a qubit can exist in a linear combination of two states known as a quantum superposition.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Impressionism",
+      "https://en.wikipedia.org/wiki/Quantum_computing"
+    ],
+    "category": "multi-hop"
+  },
+  {
+    "id": "adv013",
+    "question": "Explain in different words: Using both topics, explain how 'which' relates to Quantum computing and Inflation.",
+    "ground_truth": "From Quantum computing: however, unlike a classical bit, which can be in one of two states ( a binary ), a qubit can exist in a linear combination of two states known as a quantum superposition.  From Inflation: changes in inflation are widely attributed to increases in the money supply, fluctuations in real demand for goods and services ( also known as demand shocks, including changes in fiscal or monetary policy ), changes in available supplies such as during energy crises ( also known as supply shocks ), significant decreases in interest rates set by the central bank, or changes in inflation expectations, which may be self - fulfilling.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Quantum_computing",
+      "https://en.wikipedia.org/wiki/Inflation"
+    ],
+    "category": "paraphrase"
+  },
+  {
+    "id": "adv014",
+    "question": "Using both topics, explain how 'which' relates to Quantum computing and Inflation.",
+    "ground_truth": "From Quantum computing: however, unlike a classical bit, which can be in one of two states ( a binary ), a qubit can exist in a linear combination of two states known as a quantum superposition.  From Inflation: changes in inflation are widely attributed to increases in the money supply, fluctuations in real demand for goods and services ( also known as demand shocks, including changes in fiscal or monetary policy ), changes in available supplies such as during energy crises ( also known as supply shocks ), significant decreases in interest rates set by the central bank, or changes in inflation expectations, which may be self - fulfilling.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Quantum_computing",
+      "https://en.wikipedia.org/wiki/Inflation"
+    ],
+    "category": "negation"
+  },
+  {
+    "id": "adv015",
+    "question": "What is the phone number related to Using both topics, explain how 'which' relates to Quantum computing and Inflation.?",
+    "ground_truth": "",
+    "source_urls": [],
+    "category": "unanswerable"
+  },
+  {
+    "id": "adv016",
+    "question": "What connection exists between Using both topics, explain how 'which' relates to Quantum computing and Inflation. and Why does Inflation matter or happen? Explain briefly.?",
+    "ground_truth": "From Quantum computing: however, unlike a classical bit, which can be in one of two states ( a binary ), a qubit can exist in a linear combination of two states known as a quantum superposition.  From Inflation: changes in inflation are widely attributed to increases in the money supply, fluctuations in real demand for goods and services ( also known as demand shocks, including changes in fiscal or monetary policy ), changes in available supplies such as during energy crises ( also known as supply shocks ), significant decreases in interest rates set by the central bank, or changes in inflation expectations, which may be self - fulfilling.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Quantum_computing",
+      "https://en.wikipedia.org/wiki/Inflation"
+    ],
+    "category": "multi-hop"
+  },
+  {
+    "id": "adv017",
+    "question": "Explain in different words: Why does International Space Station matter or happen? Explain briefly.",
+    "ground_truth": "objects large enough to destroy the station can be tracked, and therefore are not as dangerous as smaller debris.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/International_Space_Station"
+    ],
+    "category": "paraphrase"
+  },
+  {
+    "id": "adv018",
+    "question": "Why does International Space Station matter or happen? Explain briefly.",
+    "ground_truth": "objects large enough to destroy the station can be tracked, and therefore are not as dangerous as smaller debris.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/International_Space_Station"
+    ],
+    "category": "negation"
+  },
+  {
+    "id": "adv019",
+    "question": "What is the phone number related to Why does International Space Station matter or happen? Explain briefly.?",
+    "ground_truth": "",
+    "source_urls": [],
+    "category": "unanswerable"
+  },
+  {
+    "id": "adv020",
+    "question": "What connection exists between Why does International Space Station matter or happen? Explain briefly. and Using both topics, explain how 'which' relates to Inflation and International Space Station.?",
+    "ground_truth": "objects large enough to destroy the station can be tracked, and therefore are not as dangerous as smaller debris.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/International_Space_Station"
+    ],
+    "category": "multi-hop"
+  },
+  {
+    "id": "adv021",
+    "question": "Can you explain Chandragupta Maurya?",
+    "ground_truth": "chandragupta maurya ( reigned c.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chandragupta_Maurya"
+    ],
+    "category": "paraphrase"
+  },
+  {
+    "id": "adv022",
+    "question": "What is not Chandragupta Maurya?",
+    "ground_truth": "chandragupta maurya ( reigned c.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chandragupta_Maurya"
+    ],
+    "category": "negation"
+  },
+  {
+    "id": "adv023",
+    "question": "What is the phone number related to What is Chandragupta Maurya?",
+    "ground_truth": "",
+    "source_urls": [],
+    "category": "unanswerable"
+  },
+  {
+    "id": "adv024",
+    "question": "What connection exists between What is Chandragupta Maurya and What is International Space Station?",
+    "ground_truth": "chandragupta maurya ( reigned c.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Chandragupta_Maurya"
+    ],
+    "category": "multi-hop"
+  },
+  {
+    "id": "adv025",
+    "question": "Explain in different words: Why does Association football matter or happen? Explain briefly.",
+    "ground_truth": "players and football writers have argued that this ban was, in fact, due to envy of the large crowds that women ' s matches attracted, and because the fa that \" the game of football is quite unsuitable for females and should not be encouraged \".",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Association_football"
+    ],
+    "category": "paraphrase"
+  },
+  {
+    "id": "adv026",
+    "question": "Why does Association football matter or happen? Explain briefly.",
+    "ground_truth": "players and football writers have argued that this ban was, in fact, due to envy of the large crowds that women ' s matches attracted, and because the fa that \" the game of football is quite unsuitable for females and should not be encouraged \".",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Association_football"
+    ],
+    "category": "negation"
+  },
+  {
+    "id": "adv027",
+    "question": "What is the phone number related to Why does Association football matter or happen? Explain briefly.?",
+    "ground_truth": "",
+    "source_urls": [],
+    "category": "unanswerable"
+  },
+  {
+    "id": "adv028",
+    "question": "What connection exists between Why does Association football matter or happen? Explain briefly. and What is the phone number of Inflation?",
+    "ground_truth": "players and football writers have argued that this ban was, in fact, due to envy of the large crowds that women ' s matches attracted, and because the fa that \" the game of football is quite unsuitable for females and should not be encouraged \".",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Association_football"
+    ],
+    "category": "multi-hop"
+  },
+  {
+    "id": "adv029",
+    "question": "Explain in different words: Why does International Space Station matter or happen? Explain briefly.",
+    "ground_truth": "objects large enough to destroy the station can be tracked, and therefore are not as dangerous as smaller debris.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/International_Space_Station"
+    ],
+    "category": "paraphrase"
+  },
+  {
+    "id": "adv030",
+    "question": "Why does International Space Station matter or happen? Explain briefly.",
+    "ground_truth": "objects large enough to destroy the station can be tracked, and therefore are not as dangerous as smaller debris.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/International_Space_Station"
+    ],
+    "category": "negation"
+  },
+  {
+    "id": "adv031",
+    "question": "What is the phone number related to Why does International Space Station matter or happen? Explain briefly.?",
+    "ground_truth": "",
+    "source_urls": [],
+    "category": "unanswerable"
+  },
+  {
+    "id": "adv032",
+    "question": "What connection exists between Why does International Space Station matter or happen? Explain briefly. and What is the phone number of Impressionism?",
+    "ground_truth": "objects large enough to destroy the station can be tracked, and therefore are not as dangerous as smaller debris.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/International_Space_Station"
+    ],
+    "category": "multi-hop"
+  },
+  {
+    "id": "adv033",
+    "question": "In what way does Pride and Prejudice differ from Impressionism?",
+    "ground_truth": "Pride and Prejudice: pride and prejudice is the second published novel ( but third to be written ) by english author jane austen, written when she was aged 20 – 21, and later published in 1813.  Impressionism: impressionism was a 19th - century art movement characterized by visible brush strokes, open composition, emphasis on accurate depiction of light in its changing qualities ( often accentuating the effects of the passage of time ), ordinary subject matter, unusual visual angles, and inclusion of movement as a crucial element of human perception and experience.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pride_and_Prejudice",
+      "https://en.wikipedia.org/wiki/Impressionism"
+    ],
+    "category": "paraphrase"
+  },
+  {
+    "id": "adv034",
+    "question": "How does Pride and Prejudice differ from Impressionism?",
+    "ground_truth": "Pride and Prejudice: pride and prejudice is the second published novel ( but third to be written ) by english author jane austen, written when she was aged 20 – 21, and later published in 1813.  Impressionism: impressionism was a 19th - century art movement characterized by visible brush strokes, open composition, emphasis on accurate depiction of light in its changing qualities ( often accentuating the effects of the passage of time ), ordinary subject matter, unusual visual angles, and inclusion of movement as a crucial element of human perception and experience.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pride_and_Prejudice",
+      "https://en.wikipedia.org/wiki/Impressionism"
+    ],
+    "category": "negation"
+  },
+  {
+    "id": "adv035",
+    "question": "What is the phone number related to How does Pride and Prejudice differ from Impressionism?",
+    "ground_truth": "",
+    "source_urls": [],
+    "category": "unanswerable"
+  },
+  {
+    "id": "adv036",
+    "question": "What connection exists between How does Pride and Prejudice differ from Impressionism and How does International Space Station differ from Impressionism?",
+    "ground_truth": "Pride and Prejudice: pride and prejudice is the second published novel ( but third to be written ) by english author jane austen, written when she was aged 20 – 21, and later published in 1813.  Impressionism: impressionism was a 19th - century art movement characterized by visible brush strokes, open composition, emphasis on accurate depiction of light in its changing qualities ( often accentuating the effects of the passage of time ), ordinary subject matter, unusual visual angles, and inclusion of movement as a crucial element of human perception and experience.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Pride_and_Prejudice",
+      "https://en.wikipedia.org/wiki/Impressionism"
+    ],
+    "category": "multi-hop"
+  },
+  {
+    "id": "adv037",
+    "question": "Can you explain Sahara?",
+    "ground_truth": "the sahara (, ) is a desert spanning across north africa.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sahara"
+    ],
+    "category": "paraphrase"
+  },
+  {
+    "id": "adv038",
+    "question": "What is not Sahara?",
+    "ground_truth": "the sahara (, ) is a desert spanning across north africa.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sahara"
+    ],
+    "category": "negation"
+  },
+  {
+    "id": "adv039",
+    "question": "What is the phone number related to What is Sahara?",
+    "ground_truth": "",
+    "source_urls": [],
+    "category": "unanswerable"
+  },
+  {
+    "id": "adv040",
+    "question": "What connection exists between What is Sahara and What is the phone number of Association football?",
+    "ground_truth": "the sahara (, ) is a desert spanning across north africa.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sahara"
+    ],
+    "category": "multi-hop"
+  }
+]
