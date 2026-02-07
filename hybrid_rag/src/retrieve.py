@@ -23,16 +23,23 @@ except Exception:
 
 RRF_K = 60
 
-# ---- Paths ----
-FAISS_PATH = "indexes/faiss.index"
-CHUNKS_META_PATH = "indexes/chunks_meta.pkl"
-BM25_PATH = "indexes/bm25.pkl"
+# ---- Robust absolute paths (important for Streamlit Cloud) ----
+BASE_DIR = os.path.dirname(os.path.dirname(__file__))  # .../hybrid_rag
+INDEX_DIR = os.path.join(BASE_DIR, "indexes")
+
+FAISS_PATH = os.path.join(INDEX_DIR, "faiss.index")
+CHUNKS_META_PATH = os.path.join(INDEX_DIR, "chunks_meta.pkl")
+BM25_PATH = os.path.join(INDEX_DIR, "bm25.pkl")
 
 # ---- In-process caches (avoid reloading every query) ----
 _INDEX = None
 _CHUNKS = None
 _BM25 = None
 _EMB_MODEL = None
+
+
+def _exists_nonempty(path: str) -> bool:
+    return os.path.exists(path) and os.path.getsize(path) > 0
 
 
 def rrf_fuse(dense_ids: List[int], sparse_ids: List[int], k: int = RRF_K) -> List[Tuple[int, float]]:
@@ -78,31 +85,39 @@ def load_indexes():
 
     # Load chunks metadata (required)
     if _CHUNKS is None:
+        if not _exists_nonempty(CHUNKS_META_PATH):
+            raise RuntimeError(
+                f"Chunk metadata index `{CHUNKS_META_PATH}` is missing or empty. "
+                "Run indexing first (`python -m src.index_dense` / `python -m src.index_sparse`) "
+                "and ensure the generated files are available in deployment."
+            )
         try:
             with open(CHUNKS_META_PATH, "rb") as f:
                 _CHUNKS = pickle.load(f)
-        except (FileNotFoundError, EOFError) as e:
+        except Exception as e:
             raise RuntimeError(
-                "Chunk metadata index `indexes/chunks_meta.pkl` is missing or empty. "
-                "Run indexing first (`python -m src.index_dense` / `python -m src.index_sparse`)."
+                f"Failed to load chunk metadata from `{CHUNKS_META_PATH}`. File may be corrupt."
             ) from e
 
     # Load BM25 index (required)
     if _BM25 is None:
+        if not _exists_nonempty(BM25_PATH):
+            raise RuntimeError(
+                f"BM25 index `{BM25_PATH}` is missing or empty. "
+                "Run sparse indexing (`python -m src.index_sparse`) and deploy index files."
+            )
         try:
             with open(BM25_PATH, "rb") as f:
                 bm = pickle.load(f)
-            # bm can be {"bm25": BM25Obj} or BM25Obj directly
             _BM25 = bm["bm25"] if isinstance(bm, dict) and "bm25" in bm else bm
-        except (FileNotFoundError, EOFError, KeyError, TypeError) as e:
+        except Exception as e:
             raise RuntimeError(
-                "BM25 index `indexes/bm25.pkl` is missing or invalid. "
-                "Run sparse indexing (`python -m src.index_sparse`) first."
+                f"Failed to load BM25 index from `{BM25_PATH}`. File may be corrupt."
             ) from e
 
     # Load FAISS index (optional)
     if _INDEX is None:
-        if FAISS_AVAILABLE and os.path.exists(FAISS_PATH) and os.path.getsize(FAISS_PATH) > 0:
+        if FAISS_AVAILABLE and _exists_nonempty(FAISS_PATH):
             try:
                 _INDEX = faiss.read_index(FAISS_PATH)
             except Exception:
@@ -150,7 +165,7 @@ def retrieve(query: str, top_k: int = 10):
                     dense_ids.append(int(cid))
                     dense_scores.append(float(sc))
         except Exception:
-            # If anything fails in dense path, continue with sparse only
+            # continue with sparse-only
             dense_ids, dense_scores = [], []
 
     # ---------- Sparse retrieval (required) ----------
