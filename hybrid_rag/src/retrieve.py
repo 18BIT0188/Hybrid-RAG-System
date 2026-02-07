@@ -4,7 +4,14 @@ import pickle
 from typing import Dict, List, Tuple
 
 import numpy as np
-from sentence_transformers import SentenceTransformer
+
+# ---- Optional sentence-transformers import (Cloud-safe) ----
+try:
+    from sentence_transformers import SentenceTransformer
+    ST_AVAILABLE = True
+except Exception:
+    SentenceTransformer = None
+    ST_AVAILABLE = False
 
 # ---- Optional FAISS import (Cloud-safe) ----
 try:
@@ -52,6 +59,8 @@ def rrf_fuse(dense_ids: List[int], sparse_ids: List[int], k: int = RRF_K) -> Lis
 def _load_embedding_model():
     global _EMB_MODEL
     if _EMB_MODEL is None:
+        if not ST_AVAILABLE:
+            return None
         _EMB_MODEL = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")
     return _EMB_MODEL
 
@@ -62,6 +71,7 @@ def load_indexes():
 
     Dense retrieval is gracefully disabled if:
       - faiss is not installed, or
+      - sentence-transformers is not installed, or
       - faiss index file missing/invalid.
     """
     global _INDEX, _CHUNKS, _BM25
@@ -125,9 +135,12 @@ def retrieve(query: str, top_k: int = 10):
     # ---------- Dense retrieval (optional) ----------
     dense_ids: List[int] = []
     dense_scores: List[float] = []
-    if index is not None:
+
+    model = _load_embedding_model()
+    dense_enabled = (index is not None) and (model is not None)
+
+    if dense_enabled:
         try:
-            model = _load_embedding_model()
             q = model.encode([query], normalize_embeddings=True).astype("float32")
             scores, ids = index.search(q, top_k)
 
